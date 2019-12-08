@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+
+<?import javafx.geometry.*?>
+
+<?import javafx.scene.control.*?>
+
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mpg.FXMLDocumentController">
+
+<children>
+
+<Label text="Enter Miles:" layoutX="20" layoutY="50" minHeight="16" minWidth="69" fx:id="miles" />
+
+<TextField layoutX="100" layoutY="50" minHeight="16" minWidth="69" fx:id="mileTextField" />
+
+<Label text="Enter Gallons:" layoutX="20" layoutY="90" minHeight="16" minWidth="69" fx:id="gallons" />
+
+<TextField layoutX="100" layoutY="90" minHeight="16" minWidth="69" fx:id="gallonsTextField" />
+
+<Button layoutX="126" layoutY="120" text="Calculate" onAction="#handleButtonAction" fx:id="calculate" />
+
+<Label layoutX="100" layoutY="160" minHeight="16" minWidth="69" fx:id="gpm" />
+
+</children>
+
+</AnchorPane>   
