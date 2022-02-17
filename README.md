@@ -6,10 +6,10 @@ An introduction to Java programming for students already experienced in the fund
 Student should be able to demonstrate an understanding of the Java IDE programming environment sufficient to write small to medium sized programs. Student should be able to demonstrate an understanding of the fundamentals of object-oriented development sufficient to create and use classes as the foundation of Java application programs
 
 ## Topics
- – Intro to Computers/Java Applications 
+ - Intro to Computers/Java Applications
  - Control Statements
  - Control Structures/Methods 
- - Methods / Recursion Quiz #2
+ - Methods / Recursion 
  - Continuation of Recursion / Strings
  - Arrays
  - Classes and Objects
